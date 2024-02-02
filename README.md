@@ -12,6 +12,15 @@ for a link like this
 
 [![license](https://nichoth.github.io/badge/polyform-shield.svg)](LICENSE)
 
+
+A more verbose badge:
+
+```md
+[![license](https://nichoth.github.io/badge/license-polyform-shield.svg)](LICENSE)
+```
+
+[![license](https://nichoth.github.io/badge/license-polyform-shield.svg)](LICENSE)
+
 created from the base64 string
 
 ```
