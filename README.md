@@ -13,7 +13,7 @@ for a link like this
 [![license](https://nichoth.github.io/badge/polyform-shield.svg)](LICENSE)
 
 
-__Or a more verbose badge:__
+__Or a more verbose version:__
 
 ```md
 [![license](https://nichoth.github.io/badge/license-polyform-shield.svg)](LICENSE)
