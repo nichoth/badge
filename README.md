@@ -2,7 +2,7 @@
 
 Various badges, for README files
 
-Use a link like this
+Use this markdown syntax
 
 ```md
 [![license](https://nichoth.github.io/badge/polyform-shield.svg)](LICENSE)
